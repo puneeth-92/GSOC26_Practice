@@ -1,0 +1,8 @@
+.Prod {
+    width: 15rem;
+    text-align: center;
+    padding: 2rem;
+    margin: 12px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
