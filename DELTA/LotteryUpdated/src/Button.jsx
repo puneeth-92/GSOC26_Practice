@@ -1,7 +1,7 @@
 export default function Button({action}){
     return(
         <>
-        <button>Generate Ticket</button>
+        <button onClick={action}>Generate Ticket</button>
         </>
         
     )
